@@ -1,0 +1,13 @@
+{
+    "name": "Word Lists",
+    "version": "1.0",
+    "default_locale": "en",
+    "manifest_version": 2,
+    "description": "Add the selected word(s) to wordlists:  https://wordlists.azurewebsites.net",
+    "permissions": [
+      "contextMenus"
+     ],
+    "background": { 
+      "scripts": ["background.js"]
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "wordlists",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Search the highlighted word with elookinto.",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemAddWordToList": {
+    "message": "Add word to wordlist",
+    "description": ""
+  }
+
+}
