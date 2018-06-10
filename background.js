@@ -5,7 +5,7 @@ function getword(info,tab) {
   });
 }
 chrome.contextMenus.create({
-  title: "Add '%s' to your wordlist ", 
+  title: "Add '%s' to your wordlist", 
   contexts:["selection"], 
   onclick: getword
 });
